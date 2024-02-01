@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nitin\\source\\repos\\netcore-mvc-bloggie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0749FBBC-5BCC-42D1-A99E-86AB1C45B847}|Bloggie.Web\\Bloggie.Web.csproj|c:\\users\\nitin\\source\\repos\\netcore-mvc-bloggie\\bloggie.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0749FBBC-5BCC-42D1-A99E-86AB1C45B847}|Bloggie.Web\\Bloggie.Web.csproj|solutionrelative:bloggie.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0749FBBC-5BCC-42D1-A99E-86AB1C45B847}|Bloggie.Web\\Bloggie.Web.csproj|c:\\users\\nitin\\source\\repos\\netcore-mvc-bloggie\\bloggie.web\\repository\\blogpostlikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0749FBBC-5BCC-42D1-A99E-86AB1C45B847}|Bloggie.Web\\Bloggie.Web.csproj|solutionrelative:bloggie.web\\repository\\blogpostlikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0749FBBC-5BCC-42D1-A99E-86AB1C45B847}|Bloggie.Web\\Bloggie.Web.csproj|c:\\users\\nitin\\source\\repos\\netcore-mvc-bloggie\\bloggie.web\\controllers\\blogpostlikecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0749FBBC-5BCC-42D1-A99E-86AB1C45B847}|Bloggie.Web\\Bloggie.Web.csproj|solutionrelative:bloggie.web\\controllers\\blogpostlikecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0749FBBC-5BCC-42D1-A99E-86AB1C45B847}|Bloggie.Web\\Bloggie.Web.csproj|c:\\users\\nitin\\source\\repos\\netcore-mvc-bloggie\\bloggie.web\\data\\bloggiedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0749FBBC-5BCC-42D1-A99E-86AB1C45B847}|Bloggie.Web\\Bloggie.Web.csproj|solutionrelative:bloggie.web\\data\\bloggiedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0749FBBC-5BCC-42D1-A99E-86AB1C45B847}|Bloggie.Web\\Bloggie.Web.csproj|c:\\users\\nitin\\source\\repos\\netcore-mvc-bloggie\\bloggie.web\\models\\viewmodels\\edittagrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0749FBBC-5BCC-42D1-A99E-86AB1C45B847}|Bloggie.Web\\Bloggie.Web.csproj|solutionrelative:bloggie.web\\models\\viewmodels\\edittagrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0749FBBC-5BCC-42D1-A99E-86AB1C45B847}|Bloggie.Web\\Bloggie.Web.csproj|c:\\users\\nitin\\source\\repos\\netcore-mvc-bloggie\\bloggie.web\\views\\blogs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0749FBBC-5BCC-42D1-A99E-86AB1C45B847}|Bloggie.Web\\Bloggie.Web.csproj|solutionrelative:bloggie.web\\views\\blogs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0749FBBC-5BCC-42D1-A99E-86AB1C45B847}|Bloggie.Web\\Bloggie.Web.csproj|c:\\users\\nitin\\source\\repos\\netcore-mvc-bloggie\\bloggie.web\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0749FBBC-5BCC-42D1-A99E-86AB1C45B847}|Bloggie.Web\\Bloggie.Web.csproj|solutionrelative:bloggie.web\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nitin\\source\\repos\\netcore-mvc-bloggie\\Bloggie.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Bloggie.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nitin\\source\\repos\\netcore-mvc-bloggie\\Bloggie.Web\\appsettings.json",
+              "RelativeToolTip": "Bloggie.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-01-29T04:52:31.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BloggieDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nitin\\source\\repos\\netcore-mvc-bloggie\\Bloggie.Web\\Data\\BloggieDbContext.cs",
+              "RelativeDocumentMoniker": "Bloggie.Web\\Data\\BloggieDbContext.cs",
+              "ToolTip": "C:\\Users\\Nitin\\source\\repos\\netcore-mvc-bloggie\\Bloggie.Web\\Data\\BloggieDbContext.cs",
+              "RelativeToolTip": "Bloggie.Web\\Data\\BloggieDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-28T09:43:27.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditTagRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Nitin\\source\\repos\\netcore-mvc-bloggie\\Bloggie.Web\\Models\\ViewModels\\EditTagRequest.cs",
+              "RelativeDocumentMoniker": "Bloggie.Web\\Models\\ViewModels\\EditTagRequest.cs",
+              "ToolTip": "C:\\Users\\Nitin\\source\\repos\\netcore-mvc-bloggie\\Bloggie.Web\\Models\\ViewModels\\EditTagRequest.cs",
+              "RelativeToolTip": "Bloggie.Web\\Models\\ViewModels\\EditTagRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-28T09:43:04.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogPostLikeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nitin\\source\\repos\\netcore-mvc-bloggie\\Bloggie.Web\\Repository\\BlogPostLikeRepository.cs",
+              "RelativeDocumentMoniker": "Bloggie.Web\\Repository\\BlogPostLikeRepository.cs",
+              "ToolTip": "C:\\Users\\Nitin\\source\\repos\\netcore-mvc-bloggie\\Bloggie.Web\\Repository\\BlogPostLikeRepository.cs",
+              "RelativeToolTip": "Bloggie.Web\\Repository\\BlogPostLikeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-28T09:39:19.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlogsController.cs",
+              "DocumentMoniker": "C:\\Users\\Nitin\\source\\repos\\netcore-mvc-bloggie\\Bloggie.Web\\Controllers\\BlogsController.cs",
+              "RelativeDocumentMoniker": "Bloggie.Web\\Controllers\\BlogsController.cs",
+              "ToolTip": "C:\\Users\\Nitin\\source\\repos\\netcore-mvc-bloggie\\Bloggie.Web\\Controllers\\BlogsController.cs",
+              "RelativeToolTip": "Bloggie.Web\\Controllers\\BlogsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-28T09:39:19.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogPostLikeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nitin\\source\\repos\\netcore-mvc-bloggie\\Bloggie.Web\\Controllers\\BlogPostLikeController.cs",
+              "RelativeDocumentMoniker": "Bloggie.Web\\Controllers\\BlogPostLikeController.cs",
+              "ToolTip": "C:\\Users\\Nitin\\source\\repos\\netcore-mvc-bloggie\\Bloggie.Web\\Controllers\\BlogPostLikeController.cs",
+              "RelativeToolTip": "Bloggie.Web\\Controllers\\BlogPostLikeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-28T09:39:19.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitin\\source\\repos\\netcore-mvc-bloggie\\Bloggie.Web\\Views\\Blogs\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bloggie.Web\\Views\\Blogs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nitin\\source\\repos\\netcore-mvc-bloggie\\Bloggie.Web\\Views\\Blogs\\Index.cshtml",
+              "RelativeToolTip": "Bloggie.Web\\Views\\Blogs\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-28T09:39:19.994Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
