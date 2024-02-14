@@ -1,0 +1,95 @@
+﻿@{
+}
+
+@model Bloggie.Web.Models.ViewModels.UserViewModel;
+
+<div class="bg-secondary bg-opacity-10 py-2">
+    <div class="container">
+        <h3>Users - Admin Functionality</h3>
+    </div>
+</div>
+
+
+<div class="container py-5">
+    <div class="container col-md-12 mx-auto">
+
+        <form method="post">
+            <!-- Modal -->
+            <div class="mb-3 d-flex justify-content-end">
+                <button type="button" class="btn btn-dark" data-bs-toggle="modal" data-bs-target="#modalCreateUser">
+                    Create User
+                </button>
+            </div>
+            <div class="modal fade" id="modalCreateUser" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h1 class="modal-title fs-5" id="exampleModalLabel">Create New User</h1>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                            <div class="mb-3">
+                                <label class="form-label">Username</label>
+                                <input type="text" action="form-control" asp-for="Username" />
+                            </div>
+                            <div class="mb-3">
+                                <label class="form-label">Email</label>
+                                <input type="text" action="form-control" asp-for="Email" />
+                            </div>
+                            <div class="mb-3">
+                                <label class="form-label">Password</label>
+                                <input type="password" action="form-control" asp-for="Password" />
+                            </div>
+                            <div class="mb-3">
+                                <div class="form-check">
+                                    <input type="checkbox" id="checkUserRole" class="form-check-input" value="User" checked disabled />
+                                    <label class="form-label" for="checkUserRole">User Role</label>
+                                </div>
+                                @if (User.IsInRole("SuperAdmin"))
+                                {
+                                    <div class="form-check">
+                                        <input type="checkbox" id="checkAdminRole" class="form-check-input" asp-for="AminRoleCheckbox" />
+                                        <label class="form-label" for="checkAdminRole">Admin Role</label>
+                                    </div>
+                                }
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                            <button type="submit" class="btn btn-primary">Save changes</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+
+        @if (Model.Users != null || Model.Users.Any())
+        {
+            <table class="table table-bordered shadow-sm">
+                <thead class="table-primary">
+                    <tr>
+                        <th>ID</th>
+                        <th>User Name</th>
+                        <th>Email</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var user in Model.Users)
+                    {
+                        <tr>
+                            <td>@user.Id</td>
+                            <td>@user.UserName</td>
+                            <td>@user.EmailAddress</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+        else
+        {
+            <p>No users were found !</p>
+        }
+
+    </div>
+</div>
+
